@@ -1,4 +1,4 @@
-package org.example.kyu8;
+package kata.kyu8;
 
 public class Clock {
     public static int Past(int h, int m, int s) {

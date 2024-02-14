@@ -1,6 +1,5 @@
-package kyu8;
+package kata.kyu8;
 
-import org.example.kyu8.Clock;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
